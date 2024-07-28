@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+button{
+    color: white;
+    background-color: pink;
+    border: none;
+    padding: auto;
+}
+
+/*media query*/
+
+
+@media screen and (max-width: 880px) {
+    section{
+flex-direction: column;
+    }
+}

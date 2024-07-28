@@ -1,0 +1,179 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    gap: 700px;
+    padding-bottom: 90px;
+    
+    
+  
+}
+#p{
+    padding-left: 150px;
+
+}
+main{
+    padding: 20px;
+    display:inline-block ;
+    box-shadow:0px 0px 0px 0px #b6b8bb;
+    color: #384A62;
+    font-family: "SF Pro"
+sans-serif;
+font-weight: 700;
+font-size: 16px;
+
+
+}
+section{
+border: 0 solid ;
+width: 300px;
+height: 400px;
+box-shadow:  0 0 #0000;
+padding-bottom: 100px;
+display: flex;
+gap: 20px;
+
+
+}
+.tuu{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px; 
+}
+.tre{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px;
+}
+.for{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px;
+}
+.fif{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px;
+}
+.twoo{
+    color: RGB(215, 127, 129);
+    padding-left: 150px;
+    font-family: "SF Pro"sans-serif;
+    text-decoration: none solid rgb(215, 127, 129);
+    font-size: 16px;
+    font-weight: 600;
+
+    
+}
+.sev{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px;
+
+}
+.eit{
+    color: #4b6382; 
+    font-family: "SF Pro",sans-serif;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(75, 99, 130);
+    text-align: start;
+    text-indent: 0px;
+}
+#pp{
+    padding-left: 150px;
+    font-size: 30px;
+    color: RGB(56, 74, 98);
+    font-weight: 400;
+    font-family: "dm serif display"
+serif;
+
+}
+
+
+button{
+    color: white;
+    background-color: pink;
+    border: none;
+    
+    
+    
+}
+.six{
+   color: 
+}
